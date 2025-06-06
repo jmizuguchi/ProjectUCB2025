@@ -1,2 +1,2 @@
-# ProjectUCB2025
+# ProjectUCB2025 - Chat
 Projecto de Faculdade GitHub
